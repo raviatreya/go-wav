@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/takuyaohashi/go-wav"
+	"github.com/raviatreya/go-wav"
 )
 
 func usage() {
